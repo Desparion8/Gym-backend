@@ -1,4 +1,5 @@
 const allowedOrigins = [
+	'https://gym-app-pi-three.vercel.app',
 	'https://gym-app-pi-three.vercel.app/',
 	'http://localhost:5173',
 ];
